@@ -1,0 +1,54 @@
+﻿生成启动时间为 2016/3/17 14:20:02。
+     1>项目“D:\文件\工程\jcgc\jcgc\jcgc.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Debug\jcgc.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\vc++\VS2010-CH-（破解版）\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Debug\jcgc.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt jcgcDlg.cpp
+         jcgcDlg.cpp
+     1>D:\OPENCV3\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\OPENCV3\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\OPENCV3\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\OPENCV3\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\OPENCV3\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\opencv3\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>jcgcDlg.cpp(188): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>jcgcDlg.cpp(189): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>jcgcDlg.cpp(190): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>jcgcDlg.cpp(191): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>jcgcDlg.cpp(199): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>jcgcDlg.cpp(200): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>jcgcDlg.cpp(202): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>jcgcDlg.cpp(203): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>jcgcDlg.cpp(204): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>jcgcDlg.cpp(209): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>jcgcDlg.cpp(219): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>jcgcDlg.cpp(227): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>jcgcDlg.cpp(230): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>jcgcDlg.cpp(232): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>jcgcDlg.cpp(237): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\vc++\VS2010-CH-（破解版）\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\文件\工程\jcgc\x64\Debug\jcgc.exe" /INCREMENTAL /NOLOGO opencv_ts300.lib opencv_world300.lib /MANIFEST /ManifestFile:"x64\Debug\jcgc.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\文件\工程\jcgc\x64\Debug\jcgc.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\文件\工程\jcgc\x64\Debug\jcgc.lib" /MACHINE:X64 x64\Debug\jcgc.res
+         x64\Debug\jcgc.exe.embed.manifest.res
+         x64\Debug\jcgc.obj
+         x64\Debug\jcgcDlg.obj
+         x64\Debug\stdafx.obj
+         jcgc.vcxproj -> D:\文件\工程\jcgc\x64\Debug\jcgc.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Debug\jcgc.exe.embed.manifest" /manifest x64\Debug\jcgc.exe.intermediate.manifest "d:\vc++\VS2010-CH-（破解版）\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         jcgc.vcxproj -> D:\文件\工程\jcgc\x64\Debug\jcgc.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\jcgc.unsuccessfulbuild”。
+         正在对“x64\Debug\jcgc.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\文件\工程\jcgc\jcgc\jcgc.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.66
